@@ -1,0 +1,18 @@
+body {
+  color: #eee;
+  background: #444;
+}
+
+a {
+  color: #fff;
+  font-weight: bold;
+}
+
+ul {
+  list-style: none;
+}
+
+li {
+  display: inline-block;
+  margin: 2em;
+}
