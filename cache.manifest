@@ -12,7 +12,3 @@ CACHE:
 #fallback
 FALLBACK:
 / /fallback.html
-
-#user MUST be online
-NETWORK:
-/page3.html
