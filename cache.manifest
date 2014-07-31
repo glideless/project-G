@@ -8,6 +8,8 @@ CACHE:
 /index.html
 /page1.html
 /page2.html
+/fallback.html
+
 
 #fallback
 FALLBACK:
