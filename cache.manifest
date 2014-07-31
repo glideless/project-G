@@ -14,3 +14,6 @@ CACHE:
 #fallback
 FALLBACK:
 / /fallback.html
+
+NETWORK:
+/page3.html
