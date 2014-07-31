@@ -9,10 +9,10 @@ CACHE:
 /page1.html
 /page2.html
 
+#fallback
+FALLBACK:
+/ /fallback.html
+
 #user MUST be online
 NETWORK:
 /page3.html
-
-#
-FALLBACK:
-/ /fallback.html
