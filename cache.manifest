@@ -1,0 +1,18 @@
+CACHE MANIFEST
+#31.07.2014
+
+#cached entries
+CACHE:
+/css/style.css
+/js/app.js
+/index.html
+/page1.html
+/page2.html
+
+#user MUST be online
+NETWORK:
+/page3.html
+
+#
+FALLBACK:
+/ /fallback.html
