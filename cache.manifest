@@ -1,19 +1,17 @@
 CACHE MANIFEST
-#v2
+#v3
 
 #cached entries
 CACHE:
-/css/style.css
-/js/app.js
-/index.html
-/page1.html
-/page2.html
-/fallback.html
-
+css/style.css
+js/app.js
+index.html
+page1.html
+page2.html
 
 #fallback
 FALLBACK:
-/ /fallback.html
+/ fallback.html
 
 NETWORK:
-/page3.html
+page3.html
