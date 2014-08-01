@@ -16,3 +16,13 @@ li {
   display: inline-block;
   margin: 2em;
 }
+
+#console {
+  background: #fff;
+  color: #333;
+  font: 10px/1 monospace;
+}
+
+#console p {
+  margin: 0;
+}
